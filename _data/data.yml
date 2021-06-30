@@ -3,13 +3,13 @@
 #
 
 sidebar:
-#     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Devang Arora
     tagline: Competitive Programmer and Backend developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: dp-formal.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: devangraj.arora@gmail.com
