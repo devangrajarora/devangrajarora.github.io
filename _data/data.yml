@@ -33,15 +33,15 @@ sidebar:
       - idiom: Hindi
         level: Native
 
-    interests:
-      - item: Competitive Programming
+    profiles:
+      - item: Codechef
         link: https://www.codechef.com/users/devangarora
 
-      - item: Chess
-        link:
+      - item: Codechef
+        link: https://www.codeforces.com/profile/devangarora
 
-      - item: Football
-        link:
+      - item: Leetcode
+        link: https://www.leetcode.com/devangarora
 
 
 career-profile:

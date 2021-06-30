@@ -1,0 +1,22 @@
+{% assign profiles = site.data.data.sidebar.profiles %}
+{% if profiles %}
+<div class="profiles-container container-block">
+
+  <h2 class="container-block-title">
+    Profiles
+  </h2>
+
+  <ul class="list-unstyled profiles-list">
+    {% for profile in profiles %}
+
+      {% if profile.link %}
+      <li><a href="{{ profile.link }}">{{ profile.item }}</a></li>
+      {% else %}
+      <li>{{ profile.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//Profiles-->
+{% endif %}
