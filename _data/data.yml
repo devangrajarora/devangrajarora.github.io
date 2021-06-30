@@ -37,7 +37,7 @@ sidebar:
       - item: Codechef
         link: https://www.codechef.com/users/devangarora
 
-      - item: Codechef
+      - item: Codeforces
         link: https://www.codeforces.com/profile/devangarora
 
       - item: Leetcode
@@ -47,30 +47,29 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A tech enthusiast with keen interest in Competitive Programming and Software Development. A quick
+      learner looking for constant professional growth by making valuable contributions and gaining input.
+    
 education:
     - degree: B.Tech in Computer and Communication Engineering
       university: Manipal Institute of Technology, Manipal
       time: 2018 - 2022
+      grade: CGPA - 8.77/10 (as of Semester 5)
       details: |
-        CGPA: 8.77/10 (as of Semester 5)
 
-    # - degree: BSc in Applied Mathematics
-    #   university: Bristol University
-    #   time: 2007 - 2011
-    #   details: |
-    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
-    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
-    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-    #     pretium quis, sem.
-    #       - Bullet point
-    #       - Bullet point
+    - degree: 10+2 CBSE
+      university: Delhi Public School, Dwarka
+      time: 2004 - 2018
+      grade: 10th CGPA - 10/10, 12th - 91%
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
 experiences:
     - role: Backend Developer
       time: November, 2020 - December 2020
