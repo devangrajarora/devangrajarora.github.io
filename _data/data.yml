@@ -40,8 +40,8 @@ sidebar:
       - item: Codeforces
         link: https://www.codeforces.com/profile/devangarora
 
-      - item: Leetcode
-        link: https://www.leetcode.com/devangarora
+      # - item: Leetcode
+      #   link: https://www.leetcode.com/devangarora
 
 
 career-profile:
@@ -80,28 +80,7 @@ experiences:
           - Worked on Doctor Dashboard – a Flutter Web application used to generate 30k prescriptions per day. 
             Implemented a type ahead field to get auto complete suggestions while filling out prescription, to save doctor’s time by 30%.
           - Developed a feature for Sales Dashboard to automate process of fetching sales leads' information from 3rd party API, compiling to a spread sheet and mailing it to respective salesperson to save time by 80%.
-    # - role: Senior Software Engineer
-    #   time: 2014 - 2015
-    #   company: Google, London
-    #   details: |
-    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    #     Cum sociis natoque penatibus et magnis dis parturient montes,
-    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    #     pellentesque eu, pretium quis, sem.
-    #       - Bullet point
-    #       - Bullet point
-    # - role: UI Developer
-    #   time: 2012 - 2014
-    #   company: Amazon, London
-    #   details: |
-    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    #     Cum sociis natoque penatibus et magnis dis parturient montes,
-    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    #     pellentesque eu, pretium quis, sem.
-    #       - Bullet point
-    #       - Bullet point
+
 projects:
     title: Projects
     # intro: >
@@ -111,7 +90,7 @@ projects:
     assignments:
       - title: Codeosity
         link: "https://play.google.com/store/apps/details?id=com.codersnco.codeosity"
-        tagline: "Deets"
+        tagline: "An application to track upcoming coding contests on Codechef, Codeforces and Atcoder.\nTech stack: Flutter, Node.js, MongoDB, AWS EC2."
 
       - title: DevStudio
         link: "#"
