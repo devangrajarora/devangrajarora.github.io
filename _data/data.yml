@@ -90,19 +90,19 @@ projects:
     assignments:
       - title: Codeosity
         link: "https://play.google.com/store/apps/details?id=com.codersnco.codeosity"
-        tagline: "An application to track upcoming coding contests on Codechef, Codeforces and Atcoder.\nTech stack: Flutter, Node.js, MongoDB, AWS EC2."
+        tagline: "An application to track upcoming coding contests on Codechef, Codeforces and Atcoder. Tech stack: Flutter, Node.js, MongoDB, AWS EC2."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Age Of Coders
+        link: "https://aoc.iecsemanipal.com/"
+        tagline: "Web application for a 3 hour online coding contest held during IECSE's annual tech fest, Prometheus. Tech stack: Node.js, MySQL, AWS EC2, HTML & CSS."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Logistics Portal
+        link: "https://gitlab.com/devangarora/logistics-portal-sys-adm"
+        tagline: "An Inventory Management System to keep track of items being used by different categories for different events from during Revels’20, the annual cultural fest of MIT Manipal."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Money Manager
+        link: "https://github.com/devangrajarora/MoneyManager-App"
+        tagline: "An expense tracking application aimed at providing users with the transaction history and summary of their monthly expenditures and savings."
 
       - title: Delta
         link: "#"
@@ -137,11 +137,20 @@ skills:
       - name: C++
         level: 90%
 
-      - name: Javascript
-        level: 80%
-
       - name: SQL
         level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Node.js
+        level: 80%
+
+      - name: Flutter
+        level: 70%
+
+      - name: Java
+        level: 70%
+
+      - name: Python
+        level: 70%
+
+      - name: MongoDB
+        level: 70%
