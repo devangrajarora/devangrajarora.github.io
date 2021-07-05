@@ -89,23 +89,23 @@ projects:
     assignments:
       - title: Codeosity
         link: "https://play.google.com/store/apps/details?id=com.codersnco.codeosity"
-        tagline: "An application to track upcoming coding contests on Codechef, Codeforces and Atcoder.<br>Tech stack: Flutter, Node.js, MongoDB, AWS EC2."
+        tagline: "An application to track upcoming coding contests on Codechef, Codeforces and Atcoder.<br><b>Tech stack:</b> Flutter, Node.js, MongoDB, AWS EC2."
 
       - title: Age Of Coders
         link: "https://aoc.iecsemanipal.com/"
-        tagline: "Web application for a 3 hour online coding contest held during IECSE's annual tech fest, Prometheus.<br>Tech stack: Node.js, MySQL, AWS EC2, HTML & CSS."
+        tagline: "Web application for a 3 hour online coding contest held during IECSE's annual tech fest, Prometheus.<br><b>Tech stack:</b> Node.js, MySQL, AWS EC2."
 
       - title: Logistics Portal
         link: "https://gitlab.com/devangarora/logistics-portal-sys-adm"
-        tagline: "An Inventory Management System to keep track of items being used by different categories for different events from during Revels’20, the annual cultural fest of MIT Manipal."
+        tagline: "An Inventory Management System to keep track of items being used by different categories for different events from during Revels’20, the annual cultural fest of MIT Manipal.<br><b>Tech stack:</b> Node.js, MySQL, HTML & CSS."
 
       - title: Money Manager
         link: "https://github.com/devangrajarora/MoneyManager-App"
-        tagline: "An expense tracking application aimed at providing users with the transaction history and summary of their monthly expenditures and savings."
+        tagline: "An expense tracking application aimed at providing users with the transaction history and summary of their monthly expenditures and savings.<br><b>Tech stack:</b> Node.js, Flutter."
 
       - title: Railway Booking Portal
         link: "https://github.com/devangrajarora/RailwayBookingPortal"
-        tagline: "A portal to view scheduled trains, book and modify trips with seperate interfaces for users and admins."
+        tagline: "A portal to view scheduled trains, book and modify trips with seperate interfaces for users and admins.<br><b>Tech stack:</b> Node.js, MySQL, HTML & CSS."
 
 # publications:
 #     title: Publications
