@@ -104,9 +104,10 @@ projects:
         link: "https://github.com/devangrajarora/MoneyManager-App"
         tagline: "An expense tracking application aimed at providing users with the transaction history and summary of their monthly expenditures and savings."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Railway Booking Portal
+        link: "https://github.com/devangrajarora/RailwayBookingPortal"
+        tagline: |
+        A portal to view scheduled trains, book and modify trips with seperate interfaces for users and admins.
 
 # publications:
 #     title: Publications
