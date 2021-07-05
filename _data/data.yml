@@ -75,10 +75,10 @@ experiences:
       company: Clinikk Healthcare, Bangalore
       details: |
           - Developed the API for Clinikk TV - a platform to provide health related audio/video content to users using
-            Node.js, MongoDB and AWS S3.
-          - Worked on Doctor Dashboard – a Flutter Web application used to generate 30k prescriptions per day. 
-            Implemented a type ahead field to get auto complete suggestions while filling out prescription, to save doctor’s time by 30%.
-          - Developed a feature for Sales Dashboard to automate process of fetching sales leads' information from 3rd party API, compiling to a spread sheet and mailing it to respective salesperson to save time by 80%.
+            <b>Node.js, MongoDB and AWS S3</b>.
+          - Worked on Doctor Dashboard – a <b>Flutter Web</b> application used to <b>generate 30k prescriptions per day</b>. 
+            Implemented a type ahead field to get auto complete suggestions while filling out prescription, to <b>save doctor’s time by 30%</b>.
+          - Developed a feature for Sales Dashboard to automate process of fetching sales leads' information from 3rd party API, compiling to a spread sheet and mailing it to respective salesperson to <b>save time by 80%</b>.
 
 projects:
     title: Projects
