@@ -45,7 +45,7 @@ sidebar:
 
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       A tech enthusiast with keen interest in Competitive Programming and Software Development. A quick
       learner looking for constant professional growth by making valuable contributions and gaining input.
@@ -75,8 +75,11 @@ experiences:
       time: November, 2020 - December 2020
       company: Clinikk Healthcare, Bangalore
       details: |
-          - Bullet point
-          - Bullet point
+          - Developed the API for Clinikk TV - a platform to provide health related audio/video content to users using
+            Node.js, MongoDB and AWS S3.
+          - Worked on Doctor Dashboard – a Flutter Web application used to generate 30k prescriptions per day. 
+            Implemented a type ahead field to get auto complete suggestions while filling out prescription, to save doctor’s time by 30%.
+          - Developed a feature for Sales Dashboard to automate process of fetching sales leads' information from 3rd party API, compiling to a spread sheet and mailing it to respective salesperson to save time by 80%.
     # - role: Senior Software Engineer
     #   time: 2014 - 2015
     #   company: Google, London
