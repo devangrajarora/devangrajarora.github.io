@@ -101,7 +101,7 @@ projects:
 
       - title: Money Manager
         link: "https://github.com/devangrajarora/MoneyManager-App"
-        tagline: "An expense tracking application aimed at providing users with the transaction history and summary of their monthly expenditures and savings.<br><b>Tech stack:</b> Node.js, Flutter."
+        tagline: "An expense tracking application aimed at providing users with the transaction history and summary of their monthly expenditures and savings.<br><b>Tech stack:</b> Flutter, Node.js."
 
       - title: Railway Booking Portal
         link: "https://github.com/devangrajarora/RailwayBookingPortal"
